@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\TriangleTypes.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\TriangleTypes.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\TriangleTypes.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\obj\Debug\TriangleTypes.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\obj\Debug\TriangleTypes.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\obj\Debug\TriangleTypes.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\RestSharp.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\RestSharp.xml
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\JWT.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\Twilio.dll
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2013\Projects\TriangleTypes\TriangleTypes\bin\Debug\Twilio.xml
